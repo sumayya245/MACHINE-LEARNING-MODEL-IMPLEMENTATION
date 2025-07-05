@@ -77,3 +77,4 @@ Through this task, I gained practical experience in building machine learning mo
 
 **OUTPUT**
 
+<img width="1903" height="1008" alt="Image" src="https://github.com/user-attachments/assets/5e146c52-afe1-4f38-baba-9a50c451530d" />
